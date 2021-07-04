@@ -1,0 +1,7 @@
+s = Solution("/Users/italoamaya/PycharmProjects/SandBox/Tareas/Tarea2/data.csv")
+print(s.ejercicio1(9,27))
+print(s.ejercicio2(5,10))
+print(s.ejercicio3(5,10))
+print(s.ejercicio4(5,10))
+print(s.ejercicio5(5,10))
+print(s.ejercicio6(5,10))
